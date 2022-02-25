@@ -1,0 +1,51 @@
+.cookie-regular {
+  font-family: "Cookie";
+  src: url("Cookie-Regular.woff2") format("woff2"),
+    url("Cookie-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+.raleway-thin-semibold {
+  font-family: "Raleway";
+  src: url("Raleway-Thin.woff2") format("woff2"),
+    url("Raleway-Thin.woff") format("woff");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+.raleway-thin-bold {
+  font-family: "Raleway";
+  src: url("Raleway-Thin.woff2") format("woff2"),
+    url("Raleway-Thin.woff") format("woff");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+.raleway-thin {
+  font-family: "Raleway";
+  src: url("Raleway-ThinItalic.woff2") format("woff2"),
+    url("Raleway-ThinItalic.woff") format("woff");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+.Roboto-bold {
+  font-family: "Roboto";
+  src: url("Roboto-Bold.woff2") format("woff2"),
+    url("Roboto-Bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+.Roboto-normal {
+  font-family: "Roboto";
+  src: url("Roboto-Regular.woff2") format("woff2"),
+    url("Roboto-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
